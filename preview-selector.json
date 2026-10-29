@@ -1,0 +1,30 @@
+{
+  "project": "Nature’s Harvest",
+  "category": "Client design review",
+  "title": "Three fresh directions for Nature’s Harvest",
+  "summary": "Explore three distinct website concepts for the independent Helensburgh fruit and veg shop. Open each preview to compare the layout, shopping journey and mobile experience.",
+  "notice": "Design review only. Sample produce, prices and imagery are illustrative. Orders and payments are disabled in these public snapshots; the working WooCommerce build remains separate.",
+  "concepts": [
+    {
+      "name": "Market Day",
+      "tag": "Bold and playful",
+      "description": "Colourful, confident and full of the energy of a proper local market.",
+      "image": "./assets/previews/market-day-desktop.jpg",
+      "url": "./market-day/"
+    },
+    {
+      "name": "The Larder",
+      "tag": "Classic and considered",
+      "description": "Warm, traditional and a little more refined, with a focus on local quality.",
+      "image": "./assets/previews/the-larder-desktop.jpg",
+      "url": "./the-larder/"
+    },
+    {
+      "name": "The Fresh Edit",
+      "tag": "Modern and minimal",
+      "description": "Contemporary, crisp and direct, with streamlined shopping at its heart.",
+      "image": "./assets/previews/fresh-edit-desktop.jpg",
+      "url": "./fresh-edit/"
+    }
+  ]
+}
